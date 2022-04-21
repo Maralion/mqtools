@@ -1,1 +1,1 @@
-Miscellaneous MQ tools
+Miscellaneous IBM MQ tools
